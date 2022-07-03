@@ -1,6 +1,18 @@
 # Version number
 5b8d0fd276b6d288905ed2f63a934e057e8feca2
 
+# Equal Experts Calculator
+
+To run the project, install dependencies with: 
+
+### `npm install`
+
+Then run:
+
+### `npm start`
+
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
