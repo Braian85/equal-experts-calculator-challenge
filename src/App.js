@@ -48,7 +48,7 @@ function App() {
           <img
             src="https://www.equalexperts.com/wp-content/themes/equalexperts/assets/logo.svg"
             alt="[=] Equal Experts"
-          ></img>
+          />
         </div>
         <div className="display">{calc || "0"}</div>
 

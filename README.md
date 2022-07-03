@@ -3,15 +3,19 @@
 
 # Equal Experts Calculator
 
-To run the project, install dependencies with: 
+To run the project, make sure you have Node installed. 
+
+Install dependencies with: 
 
 ### `npm install`
 
-Then run:
+Then start the project with: 
 
 ### `npm start`
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000)
+
 
 # Getting Started with Create React App
 
